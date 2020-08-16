@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">
+    <switch checked="{{checked}}" bindchange="switch2Change"/>
+  </view>
+  <view class="usermotto">
+    <text bindtap="set" class="user-motto">台灯助手</text>
+  </view>
+</view>

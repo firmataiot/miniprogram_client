@@ -1,0 +1,2 @@
+<input value="{{value}}" placeholder="api url" bindinput="input"></input>
+<button bindtap="ok">ok</button>
